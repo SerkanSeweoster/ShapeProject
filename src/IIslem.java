@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface IIslem {
+public interface IIslem {
+    double alanHesapla();
+    double cevreHesapla();
 }
